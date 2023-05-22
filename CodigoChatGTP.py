@@ -1,7 +1,6 @@
 #Ricardo Rodriguez Ledesma
 #Tijuana, Baja California a lunes 22 de mayo de 2023
 
-
 import json
 import os
 import ssl
